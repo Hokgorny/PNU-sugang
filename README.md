@@ -28,4 +28,4 @@ pip install selenium
 2. 해당 프로그램은 학습용으로 개발하였으며 실제로 사용하지 않습니다.
 3. 해당 프로그램을 사용하여 발생하는 모든 책임은 사용자에게 있습니다.
 
-<div algin=center>“This project is licensed under the terms of the MIT license.”</div>
+<div align=center>“This project is licensed under the terms of the MIT license.”</div>
