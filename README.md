@@ -12,15 +12,15 @@
 
 ## 준비사항
 #### &nbsp;&nbsp; 1. 희망과목 담기
-&nbsp;&nbsp; 경쟁률이 높은 순서대로 신청해두는게 좋다.
+&nbsp;&nbsp; 경쟁률이 높은 순서대로 신청해두는게 좋습니다.
 #### &nbsp;&nbsp; 2. [Chrome 브라우저](https://www.google.com/intl/ko_kr/chrome/) 설치
-&nbsp;&nbsp; 이미 설치되어 있다면 생략한다.
+&nbsp;&nbsp; 이미 설치되어 있다면 생략합니다.
 #### &nbsp;&nbsp; 3. [Chrome Driver](https://chromedriver.chromium.org/downloads) 다운로드 
-&nbsp;&nbsp; 자신의 Chrome과 "동일한 버전"을 다운받고 "프로젝트 경로"에 넣는다.  
+&nbsp;&nbsp; 자신의 Chrome과 "동일한 버전"을 다운받고 "프로젝트 경로"에 넣습니다.  
 
 >  Chrome 버전 확인하는 법
 >    1. 컴퓨터에서 Chrome을 엽니다.
->    2. 오른쪽 상단에서 더보기 ⋮ 클릭, 설정을 클릭합니다.
+>    2. 오른쪽 상단에서 더보기 버튼&nbsp;⋮ 클릭, 설정을 클릭합니다.
 >    3. 왼쪽 목록 하단의 Chrome 정보를 클릭하여 버전을 확인합니다.
 #### &nbsp;&nbsp; 4. Selenium 라이브러리 설치
 ```
